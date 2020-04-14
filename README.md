@@ -1,5 +1,5 @@
 # Computing the exponent of oscillatory matrices
-A Python tool to compute the exponent of an oscillatory matrix. See [notebook](https://github.com/yoramzarai/Oscillatory_Exp/Osc_exp.ipynb) for details and implementation.
+A Python tool to compute the exponent of an oscillatory matrix. See [notebook](https://github.com/yoramzarai/Oscillatory_Exp/blob/master/OSC_exp.ipynb) for details and implementation.
 
 
 ## Function
