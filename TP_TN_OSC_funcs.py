@@ -1,3 +1,6 @@
+'''
+General tools related to TP/TN/I-TN/OSC matrices.
+'''
 
 import numpy as np
 import matplotlib.pyplot as plt
