@@ -3,3 +3,8 @@ venv
 local/
 .DS_Store
 __pycache__/
+Test_TpTnOsc/
+TpTnOsc/
+TpTnOsc.docx
+TpTnOsc.pdf
+old_README.rd
